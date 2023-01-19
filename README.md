@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahulse10
-- 👀 I’m interested in GIS, Data Visualization
-- 🌱 I’m currently learning GIS and Urban Planning
+- 👀 I’m interested in GIS, Data Visualization, Geospatial Data Science
+- 🌱 I’m currently learning GIS, Data Science and Urban Planning
 
 
 <!---
