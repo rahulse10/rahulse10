@@ -1,4 +1,4 @@
-# Welcome to my GitHub portfolio!
+# Welcome to my GitHub!
 
 Hi, I'm Rahul Sehgal, a student of Urban Planning and GIS at NTNU. I specialize in the use of GIS for Transport Planning, Climate Change and Web GIS.
 
@@ -20,7 +20,7 @@ ArcGIS Pro, QGIS and GeoDA were used to complete the assignments.
 - Web GIS
 
 
-Thanks for visiting my GitHub portfolio!
+Thanks for visiting my GitHub profile!
 
 <!---
 rahulse10/rahulse10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
