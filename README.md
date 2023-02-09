@@ -9,6 +9,10 @@ Here are some of my notable projects that showcase my skills and expertise:
 As a part of the course, we identified nations that need to focus on their CO2 emissions using Data Science workflow. /
 Python librarties used - PAndas, Geopandas, Matplotlib, numpy, plotly
 
+### Project 2: [Introduction to Geographical Information Systems (GIS)](https://github.com/rahulse10/Introduction_to_GIS))
+As a part of the course, we identified nations that need to focus on their CO2 emissions using Data Science workflow. /
+Python librarties used - PAndas, Geopandas, Matplotlib, numpy, plotly
+
 ## Skills
 - ArcGIS Pro
 - QGIS
