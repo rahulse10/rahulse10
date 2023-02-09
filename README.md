@@ -10,10 +10,10 @@ As a part of the course, we identified nations that need to focus on their CO2 e
 Python librarties used - PAndas, Geopandas, Matplotlib, numpy, plotly
 
 ## Skills
-- [ArcGIS Pro]
-- [QGIS]
-- [Python]
-- [Web GIS]
+- ArcGIS Pro
+- QGIS
+- Python
+- Web GIS
 
 
 Thanks for visiting my GitHub portfolio!
