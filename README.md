@@ -23,7 +23,7 @@ ArcGIS Pro, QGIS and GeoDA were used to complete the assignments.
 - Web GIS
 
 
-Thanks for visiting my GitHub profile!
+
 
 <!---
 rahulse10/rahulse10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
