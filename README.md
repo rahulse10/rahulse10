@@ -28,6 +28,7 @@ The course focused on network tools and modelling in GIS and use of accessibilit
 - ArcGIS Pro
 - QGIS
 - Python
+- Spatial Data Management
 - Web GIS
 
 
